@@ -1,0 +1,10 @@
+# ビルド成果物
+/bin/
+*.exe
+*.test
+*.out
+
+# エディタ・OS
+.idea/
+.vscode/
+.DS_Store
